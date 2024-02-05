@@ -1,0 +1,243 @@
+[
+    {"id":1,
+    "title": "Harry Potter and the Sorcerer's Stone",  
+    "rating":7.6,
+    "genre":"Fantasy Adventure",
+    "langage":"English",
+    "image": "./images/Harry Potter and the Sorcerer's Stone.jpg" ,
+    "description":"An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family, and the terrible evil that haunts the magical world. On his eleventh birthday, Harry Potter (Daniel Radcliffe) discovers that he is no ordinary boy."
+    },
+    {
+    "id":2,
+    "title": "Inception",
+    "rating":8.8,
+    "genre":"Science-fiction Action",
+    "langage":"English",
+    "image": "./images/Inception.jpg" ,
+    "description":"Dom Cobb is an experienced thief, the best in the perilous art of extraction: his specialty involves stealing the most valuable secrets from an individual's subconscious mind while they dream, and when their mind is particularly vulnerable."
+    },
+    
+    {
+    "id":3,
+    "title":"Titanic",
+    "rating":7.8,
+    "genre":"Romance Drame",
+    "langage":"English",
+    "image": "./images/Titanic.jpg" ,
+    "description":"Titanic, the largest and most modern ship in the world, reputedly unsinkable, sets sail for its maiden voyage. Onboard, Jack, a bohemian artist, and Rose, a young woman from high society, meet and live a passionate yet impossible love story."
+    },
+    
+    {
+    "id":4,
+    "title": "The Silence of the Lambs",
+    "rating":8.6,
+    "genre":"Thriller Horreur",
+    "langage":"English",
+    "image": "./images/The Silence of the Lambs.jpg" ,
+    "description":"The story follows FBI academy student Clarice Starling (Jodie Foster), who plays a cat-and-mouse game with the imprisoned psychopath Hannibal Lecter (Anthony Hopkins) to catch a serial killer"
+    },
+    
+    {
+    "id":5,
+    "title": "La La Land",
+    "rating":8.0,
+    "genre":"Comédie musicale Drame",
+    "langage":"English",
+    "image": "./images/La La Land.jpg" ,
+    "description":"In the heart of Los Angeles, an aspiring actress named Mia serves coffee between auditions. On the other hand, Sebastian, a jazz enthusiast, plays the piano in shabby clubs to make a living. Both are far from the dreamed-of life they aspire to."
+    },
+    
+    {
+    "id":6,
+    "title":"The Godfather", 
+    "rating":9.2,
+    "genre":"Crime Drame",
+    "langage":"English",
+    "image": "./images/The Godfather.jpg" ,
+    "description":"The Corleones are one of the five mafia families. Don Vito Corleone, the family's 'godfather,' arranges his daughter's marriage to a bookmaker. Sollozzo, the godfather of the Tattaglia family, proposes a drug trafficking partnership to Don Vito, who refuses."
+    },
+    
+    {
+    "id":7,
+    "title": "The Twilight Saga: New Moon", 
+    "rating":4.7,
+    "genre": "Drama Fantasy",
+    "langage":"English",
+    "image": "./images/The Twilight Saga New Moon.jpg" ,
+    "description":"Tells the story of Bella Swan, a human, and the love triangle she forms with the vampire Edward Cullen and her best friend, the shape-shifter Jacob Black, who transforms into a giant wolf."
+    },
+    
+    {
+    "id":8,
+    "title": "The Wizard of Oz",
+    "rating":8.0,
+    "genre": "Adventure Family",
+    "langage":"English",
+    "image": "./images/The Wizard of Oz.jpg" ,
+    "description":"Dorothy Gale lives on a farm in Kansas with her Aunt Em and Uncle Henry, where she is bored. After a storm, she faints and wakes up in Oz, a marvelous world populated by strange beings like the Munchkins, Glinda the Good Witch, and the Wicked Witch of the West."
+    },
+    
+    {
+    "id":9,
+    "title": "The Matrix", 
+    "rating":8.7,
+    "genre":"Science-fiction Action",
+    "langage":"English",
+    "image": "./images/The Matrix.jpg" ,
+    "description":"Anonymous programmer by day, Thomas Anderson becomes Neo at night. Under this pseudonym, he is one of the most wanted hackers in cyberspace. Caught between two worlds, Neo is besieged by strange dreams and encrypted messages from a certain Morpheus."
+    },
+    
+    {
+    "id":10,
+    "title": "The Revenant",
+    "rating":8.0,
+    "genre":"Action Adventure",
+    "langage":"English",
+    "image": "./images/The Revenant.jpg" ,
+    "description":"In a profoundly wild America, Hugh Glass, a trapper, is attacked by a bear and severely injured. Abandoned by his team, he is left for dead. But Glass refuses to die."
+    },
+    
+    {
+    "id":11,
+    "title": "The Pursuit of Happyness",
+    "rating":8.0,
+    "genre":"Drame Biographie",
+    "langage":"English",
+    "image": "./images/The Pursuit of Happyness.png" ,
+    "description":"Chris Gardner, a struggling salesman, juggles to make a living. His partner becomes increasingly intolerant of their precarious situation and eventually leaves Chris and their five-year-old son, Christopher."
+    },
+    {
+    "id":12,
+    "title":"Amélie",
+    "rating":8.3,
+    "genre":"Comédie Romantique Drame",
+    "langage":"Français",
+    "image": "./images/Amélie.jpg" ,
+    "description":"Amélie, a young waitress in a Montmartre bar, spends her time observing people and letting her imagination wander. She sets a goal: to do good for those around her. She invents strategies to intervene incognito in their lives."
+    },
+    
+    {
+    "id":13,  
+    "title":"Intouchables",
+    "rating":8.5,
+    "genre":"Biographie Comédie Drame",
+    "langage":"Français",
+    "image": "./images/Intouchables.jpg" ,
+    "description":"Philippe, a wealthy aristocrat paralyzed after a paragliding accident, hires Driss, a young man of Senegalese origin just out of prison, as a home caregiver. Why him? Simply because he doesn't look at Philippe with the same pitying gaze as other candidates."
+    },
+    
+    {
+    "id":14,
+    "title": "Les Misérables",
+    "rating":7.6,
+    "genre":"Drame Thriller",
+    "langage":"Français",
+    "image": "./images/Les Misérables.jpg" ,
+    "description":"Stéphane, just arrived from Cherbourg, joins the Anti-Crime Brigade in Montfermeil, in the suburbs of Paris. He meets his new teammates, Chris and Gwada, two experienced officers. He quickly discovers tensions between different groups in the neighborhood."
+    },
+    
+    {
+    "id":15,
+    "title": "La Haine",
+    "rating":8.1,
+    "genre":"Drame",
+    "langage":"Français",
+    "image": "./images/La Haine.jpeg" ,
+    "description":"A riot erupts in the Muguets housing project following a police blunder. In the early morning, three friends meet. Among them is Vinz, an advocate of hatred as a survival method, proud to have found the gun lost by a police officer."
+    },
+    
+    {
+    "id":16,
+    "title": "Un Prophète ",
+    "rating":7.9,
+    "genre":"Crime Drame",
+    "langage":"Français",
+    "image": "./images/Un Prophète.jpg" ,
+    "description":"Malik, 19, illiterate, without family, is imprisoned for a vague assault on a police officer and sentenced to 6 years in prison. 6 years that will transform him into a major criminal. With 'A Prophet,' Jacques Audiard immerses us with realism and violence in the prison environment where crime is an integration factor."
+    },
+    
+    {
+    "id":17,
+    "title": "Elle",
+    "rating":7.1,
+    "genre":"Crime Drame Thriller",
+    "langage":"Français",
+    "image": "./images/Elle.jpg" ,
+    "description":"Michèle is raped in her home. Instead of calling the police, she keeps silent about it, continuing her life as if nothing happened. Although the single woman takes the opportunity to arm herself and desires revenge, she continues to work and take care of her family. Soon, Michèle receives threats, leading her to suspect those around her."
+    },
+    
+    {
+    "id":18,
+    "title": "Le Dîner de Cons ",
+    "rating":7.7,
+    "genre":"Comédie Drame",
+    "langage":"Français",
+    "image": "./images/Le Dîner de Cons.jpg" ,
+    "description":"Pierre, a publisher, participates every Wednesday in a 'dinner of fools.' The principle: each person brings a 'fool,' and the one who has found the most spectacular one is declared the winner. Tonight, his guest is François Pignon, passionate about matchstick models and a true bearer of bad luck."
+    },
+    
+    {
+    "id":19,
+    "title": "Entre les Murs  ",
+    "rating":7.8,
+    "genre":"Drame",
+    "langage":"Français",
+    "image": "./images/Entre les Murs.jpg" ,
+    "description":"François is a young French teacher in a 9th-grade class in an ordinary but challenging school in the 20th arrondissement of Paris. He must confront his students Esméralda, Souleymane, Khoumba, and others. François doesn't hesitate to go beyond academic boundaries and push the teenagers to their limits to motivate them, even if it sometimes involves taking the risk of excess."
+    },
+    
+    {
+    "id":20,
+    "title": "Léon: The Professional ", 
+    "rating":8.5,
+    "genre":"Action, Crime, Drame",
+    "langage":"Français",
+    "image": "./images/Léon The Professional.jpg" ,
+    "description":"A hitman named Léon takes under his wing Mathilda, a twelve-year-old girl, the sole survivor of the massacre of her family."
+    },
+    {
+        "id": 21,
+        "title": "Al-risâlah",
+        "rating": 8.9,
+        "genre": "",
+        "language": "Arabic",
+        "image": "./images/risala.jpeg",
+        "description": "The story of prophet 'Muhammad' and the delivery of the message of God 'Allah.'"
+      },
+      {
+        "id": 22,
+        "title": "El-Gezirah",
+        "rating": 7.8,
+        "genre": "",
+        "language": "Arabic",
+        "image": "./images/El-Gezirah.jpeg",
+        "description": "'El Gezira' is a film about a community of Upper Egypt residents living in El Gezira (the Island). They have their own set of rules, ethics and traditions."
+      },
+      {
+        "id": 23,
+        "title": "Alf Mabrook",
+        "rating": 7.4,
+        "genre": "",
+        "language": "Arabic",
+        "image": "./images/Alf Mabrook.jpeg",
+        "description": "A guy lives the same day over and over and deals with the same events each time which changes the way he looks to his life."
+      },
+      {
+        "id": 24,
+        "title": "Morgan Ahmed Morgan",
+        "rating": 6.4,
+        "genre": "",
+        "language": "Arabic",
+        "image": "./images/morgan ahmad morgan.jpeg",
+        "description": "Morgan, who is an uneducated very rich man, is used to buy everything he wants. Now the one thing we wants is a college certificate which he seeks to buy."
+      },
+      {
+        "id": 25,
+        "title": "El Nazer",
+        "rating": 8.0,
+        "genre": "",
+        "language": "Arabic",
+        "image": "./images/El Nazer.jpeg",
+        "description": "Salah eldin inherit administration of a school from his father, but he abusive its management due to his lack of experience."
+      }
+]

@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Action", "type": "checkbox", "value": "Action" },
+    { "id": 2, "name": "Comedy", "type": "checkbox", "value": "Comedy" },
+    { "id": 3, "name": "Drama", "type": "checkbox", "value": "Drama" },
+    { "id": 4, "name": "Thriller", "type": "checkbox", "value": "Thriller" },
+    { "id": 5, "name": "Science Fiction", "type": "checkbox", "value": "Science Fiction" },
+    { "id": 6, "name": "Adventure", "type": "checkbox", "value": "Adventure" },
+    { "id": 7, "name": "Romance", "type": "checkbox", "value": "Romance" },
+    { "id": 8, "name": "Horror", "type": "checkbox", "value": "Horror" },
+    { "id": 9, "name": "Fantasy", "type": "checkbox", "value": "Fantasy" },
+    { "id": 10, "name": "Mystery", "type": "checkbox", "value": "Mystery" }
+]
