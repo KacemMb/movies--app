@@ -2,7 +2,7 @@
     {"id":1,
     "title": "Harry Potter and the Sorcerer's Stone",  
     "rating":7.6,
-    "genre":"Fantasy Adventure",
+    "genre":"Fantasy",
     "langage":"English",
     "image": "./images/Harry Potter and the Sorcerer's Stone.jpg" ,
     "description":"An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family, and the terrible evil that haunts the magical world. On his eleventh birthday, Harry Potter (Daniel Radcliffe) discovers that he is no ordinary boy."
@@ -11,7 +11,7 @@
     "id":2,
     "title": "Inception",
     "rating":8.8,
-    "genre":"Science-fiction Action",
+    "genre":"Action",
     "langage":"English",
     "image": "./images/Inception.jpg" ,
     "description":"Dom Cobb is an experienced thief, the best in the perilous art of extraction: his specialty involves stealing the most valuable secrets from an individual's subconscious mind while they dream, and when their mind is particularly vulnerable."
@@ -21,7 +21,7 @@
     "id":3,
     "title":"Titanic",
     "rating":7.8,
-    "genre":"Romance Drame",
+    "genre":"Drame",
     "langage":"English",
     "image": "./images/Titanic.jpg" ,
     "description":"Titanic, the largest and most modern ship in the world, reputedly unsinkable, sets sail for its maiden voyage. Onboard, Jack, a bohemian artist, and Rose, a young woman from high society, meet and live a passionate yet impossible love story."
@@ -31,7 +31,7 @@
     "id":4,
     "title": "The Silence of the Lambs",
     "rating":8.6,
-    "genre":"Thriller Horreur",
+    "genre":"Horror",
     "langage":"English",
     "image": "./images/The Silence of the Lambs.jpg" ,
     "description":"The story follows FBI academy student Clarice Starling (Jodie Foster), who plays a cat-and-mouse game with the imprisoned psychopath Hannibal Lecter (Anthony Hopkins) to catch a serial killer"

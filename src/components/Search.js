@@ -1,9 +1,7 @@
 import React from 'react'
 import '../style/Search.css'
 const Search = ({onSearsh}) => {
-  // const [Search, setSearch] = useState('');
   const handelSearchChange = (e)=>{
-    // setSearch(e.target.value)
     onSearsh(e.target.value)
   }
   return (
