@@ -1,8 +1,8 @@
 import React from 'react'
 import '../style/Search.css'
-const Search = ({onSearsh}) => {
+const Search = ({onSearch}) => {
   const handelSearchChange = (e)=>{
-    onSearsh(e.target.value)
+    onSearch(e.target.value)
   }
   return (
     <>
