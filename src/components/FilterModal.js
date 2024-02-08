@@ -21,6 +21,7 @@ function FilterModal({ onGenre, onLanguage, onRating }) {
   // Event handler for language selection change
   const handleLanguageChange = (event) => {
     setLanguageFilter(event.target.value);
+    console.log(event.target.value)
   };
 
   // Event handler for genre selection change
