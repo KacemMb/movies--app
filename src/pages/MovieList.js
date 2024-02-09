@@ -25,7 +25,7 @@ const MovieList = ({ Data, search, genreFilter, languageFilter, ratingFilter }) 
     <div className='MovieList'> {/* Container for the movie list */}
       {/* Mapping through filtered movies and rendering MovieCard for each */}
       {filteredMovies.map((movie) => (
-        <MovieCard key={movie.id} title={movie.title} dis={movie.description} image={movie.image} rating={movie.rating} />
+        <MovieCard key={movie.id} title={movie.title} dis={movie.description} image={movie.image} rating={movie.rating} id={movie.id} />
       ))}
     </div>
   );

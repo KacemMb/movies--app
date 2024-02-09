@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import NavBar from './pages/NavBar';
 import MovieList from './pages/MovieList';
 import MovieData from './Data/MovieData.json';
+import { Route, Routes } from 'react-router-dom';
+import Watching from './pages/Watching';
 
 function App() {
   // State variables
@@ -46,14 +48,17 @@ function App() {
         onRating={onRating}
         onSearch={onSearch}
       />
-      {/* MovieList component */}
-      <MovieList
+      <Routes>
+        <Route path='home' element= {<MovieList
         Data={newMovies}
         search={search}
         genreFilter={genreFilter}
         languageFilter={languageFilter}
         ratingFilter={ratingFilter}
-      />
+      />} />
+
+        <Route path="/watching/:id" element={<Watching Data={newMovies}/>} />
+      </Routes>
     </div>
   );
 }

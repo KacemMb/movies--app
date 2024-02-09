@@ -1,0 +1,16 @@
+.Watching{
+    margin: 50px auto;
+    color: black;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+}
+.Watching img {
+    display: block;
+}
+.movieInformations{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
